@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map productID="oxy-webhelp" productVersion="1.0">
+   <appContext helpID="zgl_bww_dwb" path="01_css_intro.html"/>
+   <appContext helpID="t3p_nvx_dwb" path="02_syntax.html"/>
+   <appContext helpID="vmt_zfx_dwb" path="03_selectors.html"/>
+   <appContext helpID="czh_p3x_dwb" path="03.1_simple_selectors.html"/>
+   <appContext helpID="dnr_jhf_2wb" path="03.2_other_selectors.html"/>
+   <appContext helpID="hb4_wv1_2wb" path="04_how_to.html"/>
+   <appContext helpID="pqp_cx1_2wb" path="04.1_external.html"/>
+   <appContext helpID="yct_3cb_2wb" path="04.2_internal.html"/>
+   <appContext helpID="cht_j2b_2wb" path="04.3_inline.html"/>
+   <appContext helpID="r5q_xmb_2wb" path="04.4_multistyle.html"/>
+   <appContext helpID="pwf_xfy_dwb" path="05_color.html"/>
+   <appContext helpID="hww_ljc_2wb" path="05.1_color_rgb.html"/>
+   <appContext helpID="wfl_dnc_2wb" path="05.2_color_hex.html"/>
+   <appContext helpID="sbk_knc_2wb" path="05.3_color_hsl.html"/>
+   <appContext helpID="thf_bqb_2wb" path="06_font.html"/>
+   <appContext helpID="yyw_j5b_2wb" path="06.1_font_family.html"/>
+   <appContext helpID="ibq_rvb_2wb" path="06.2_font_size.html"/>
+   <appContext helpID="sqc_kdc_2wb" path="06.3_font_weight.html"/>
+   <appContext helpID="m4j_jfc_2wb" path="06.4_font_style.html"/>
+   <appContext helpID="nsm_c4c_2wb" path="07_text.html"/>
+   <appContext helpID="kc1_5sc_2wb" path="07.1_text_alignment.html"/>
+   <appContext helpID="h1x_3wc_2wb" path="07.2_text_decoration.html"/>
+   <appContext helpID="zgc_3xc_2wb" path="07.3_text_space.html"/>
+   <appContext helpID="hth_qxc_2wb" path="07.4_text_indent.html"/>
+   <appContext helpID="vnj_wzd_2wb" path="08_background.html"/>
+   <appContext helpID="ayv_bf2_2wb" path="08.1_background_color.html"/>
+   <appContext helpID="fzg_rg2_2wb" path="08.2_background_image.html"/>
+   <appContext helpID="pbw_kh2_2wb" path="08.3_background_repeat.html"/>
+   <appContext helpID="o45_wp2_2wb" path="08.4_background_attachment.html"/>
+   <appContext helpID="gsf_xq2_2wb" path="09_border.html"/>
+   <appContext helpID="h12_1t2_2wb" path="09.1_border_width.html"/>
+   <appContext helpID="unw_x52_2wb" path="09.2_border_color.html"/>
+   <appContext helpID="hdl_2w2_2wb" path="09.3_border_style.html"/>
+</map>
